@@ -336,7 +336,6 @@ canvas, .px-icon {
 .result-screen { justify-content: center; }
 .result-card { width: 980px; padding: 30px 46px 34px; display: flex; flex-direction: column; align-items: center; }
 .result-card .rank-label { font-size: 28px; color: var(--brown); }
-.result-card .rank { font-size: 64px; line-height: 1; color: var(--red); margin: 4px 0; text-shadow: 3px 3px 0 var(--gold); }
 .result-card .rank-note { font-size: 28px; color: var(--brown-dark); }
 .stats { display: grid; grid-template-columns: repeat(3, 1fr); gap: 16px; width: 100%; margin: 22px 0 18px; }
 .stat { background: var(--brown-dark); color: var(--cream); padding: 10px 6px 8px; text-align: center; box-shadow: 0 0 0 4px var(--black); }
